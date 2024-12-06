@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Johnson Temitope Ojo
 - 👀 I’m interested in Networking, IT Support and System Administration
-- 📫 Reach me on LinkedIn - https://linkedin.com/in/jtemitope
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/jtemitope)
 - E-mail: jtemitope384@gmail.com
 - X (formerly Twitter): [@temibytes](https://x.com/temibytes)
 - Personal Blog: [Substack](https://temibytes.substack.com)    [Medium](https://temibytes.medium.com)
